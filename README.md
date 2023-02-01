@@ -1,1 +1,1 @@
-#DMMWEBCAMPカリキュラムHTML/CSSを学ぼうの課題です。
+DMMWEBCAMPカリキュラムHTML/CSSを学ぼうの課題です。
